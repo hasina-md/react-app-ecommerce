@@ -1,4 +1,4 @@
-.product-card {
+.product-list {
     display: flex;
     flex-wrap: wrap;
     
@@ -12,6 +12,7 @@
     margin: 16px;
     width: 200px;
     text-align: center;
+    display:block;
 }
 
 .product-card img {
